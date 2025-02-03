@@ -13,13 +13,13 @@ project-root/
 │   ├── [Other Cypress configurations]
 │── [Other project files]
 
-Test Files
+Test Files:
 All test case files are located inside the e2e folder.
 
-Pages Folder
+Pages Folder:
 The Pages folder contains reusable page object files for test automation.
 
-Running Tests
+Running Tests:
 To execute the test cases, follow these steps:
 Install dependencies:
 npm install
@@ -27,5 +27,5 @@ npm install
 Open Cypress:
 npx cypress open
 
-Run tests in the Cypress Test Runner.
+Run tests in the Cypress Test Runner:
 npx cypress run
